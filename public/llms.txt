@@ -1,0 +1,43 @@
+# SnapDemo - llms.txt
+
+> LLM-readable manifest (https://llmstxt.org). Features-only; no fabricated traffic or unverified payment claims.
+
+## Name & positioning
+- Product name: SnapDemo
+- One-line value: SnapDemo turns a product screenshot into a clickable demo storyboard — hotspot ideas, narration beats, and a shareable walkthrough outline for PMs and marketers who need a first-pass interactive demo without a full recording studio.
+- Domain: https://screenshot-to-demo.lxsaihub.com/
+- Language: English (en)
+
+## Domain context (verified primary sources)
+- schema.org — FAQPage: https://schema.org/FAQPage
+- Google Search Central — Structured data: https://developers.google.com/search/docs/appearance/structured-data/intro
+
+## FAQ
+Q1. What is SnapDemo?
+A1. SnapDemo drafts a clickable demo storyboard from a screenshot description.
+Q2. Who should use it?
+A2. PMs, marketers, and founders who need a first-pass interactive walkthrough.
+Q3. Does it record video for me?
+A3. No. It plans hotspots and narration; you build the demo in your tool.
+Q4. What inputs do I need?
+A4. What the screenshot shows, audience, and the action you want viewers to take.
+Q5. Does it guarantee conversion?
+A5. No. It is decision-support storyboarding, not a growth guarantee.
+Q6. Can it invent UI that is not in the shot?
+A6. No. Stay honest to the screenshot; flag missing screens separately.
+
+## Key pages
+- Home: https://screenshot-to-demo.lxsaihub.com/
+- Blog index: https://screenshot-to-demo.lxsaihub.com/blog
+- https://screenshot-to-demo.lxsaihub.com/blog/screenshot-to-demo-overview-2026.html
+- https://screenshot-to-demo.lxsaihub.com/blog/screenshot-to-demo-howto-2026.html
+- This manifest: https://screenshot-to-demo.lxsaihub.com/llms.txt
+
+## Pricing
+- Plans may appear on the product site. GEO assets omit unverified checkout product IDs.
+
+## Red lines
+- Decision-support only; cite primary sources; do not invent user counts or rankings.
+
+## Contact
+- Open the app: https://screenshot-to-demo.lxsaihub.com/
